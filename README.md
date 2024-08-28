@@ -2,6 +2,10 @@
 ## Overview
 This project involves analyzing school and standardized test data to help the city’s school district make informed decisions about future budgets and priorities. Aggregate and interpret data on student performance to identify trends and make recommendations.
 
+![download](https://github.com/user-attachments/assets/19add417-02e3-4a29-aa01-d66a1b3dc695)
+
+ _(source: [Article](https://www.elsmediakits.com/blog/hcp-marketing-questions-you-should-be-asking) by [Alex Brown](https://www.elsmediakits.com/blog/hcp-marketing-questions-you-should-be-asking))_
+   
 ## Background
 The dataset includes comprehensive information on math and reading scores across various schools in the district. The goal is to use Pandas and Jupyter Notebook to process and analyze this data, providing insights into school performance and areas for improvement.
 
